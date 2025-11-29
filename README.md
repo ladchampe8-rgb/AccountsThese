@@ -1,1 +1,1 @@
-# AccountsThese
+[![docs](https://github.com/captradeoff/x-post-action/actions/workflows/docs.yml/badge.svg)](https://github.com/captradeoff/x-post-action/actions/workflows/docs.yml)
